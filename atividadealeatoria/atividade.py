@@ -3,7 +3,7 @@ contar = {}
 for letra in texto:
     if letra in contar:
         contar[letra]+= 1
-    else
+    else:
         contar[letra] = 1
 
 letramais = ' '
